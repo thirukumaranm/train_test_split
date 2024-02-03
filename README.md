@@ -63,8 +63,8 @@ This project focuses on applying data preprocessing and feature engineering tech
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/your-project.git
-cd your-project
+git clone https://github.com/thirukumaranm/train_test_split get
+cd train_test_split
 Install dependencies:
 
 
@@ -74,8 +74,10 @@ Run the data preprocessing and feature engineering script:
 
 python src/data_preprocessing.py
 Explore the preprocessed dataset and analysis.
-Author
 
-M Thirukumaran.  
+
+Author :
+
+M Thirukumaran.  linkedIn profile: https://www.linkedin.com/in/thiru-kumaran-m-a375aa277/
 
 Feel free to add more sections or customize the template based on your project's specific details.
